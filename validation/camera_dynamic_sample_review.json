@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "models": [
+    "autovla_4s_422f254389a65c1d",
+    "impromptu_3s_b53db7bbc74956ed",
+    "orion_4s_422f254389a65c1d",
+    "opendrivevla_3s_6ec9c290f821534d"
+  ],
+  "review": "Visually inspected four model posters and AutoVLA/OpenDriveVLA four-time keyframes. Camera timestamps and recorded-source caption readable; no header clipping; real images advance. Geometry/timelines outside camera panel match baseline raw pixels at all sample states.",
+  "raw_camera_only_state_checks": 144,
+  "renderer_sha256": "f8f21d11445dfbcdb246a63c35d4d51379cece5715458777a93946e668613399"
+}

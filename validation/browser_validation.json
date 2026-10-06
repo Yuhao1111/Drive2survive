@@ -1,0 +1,53 @@
+{
+  "status": "PASS",
+  "method": "Dedicated offline headless Edge fallback after unavailable browser-plugin bootstrap; did not attach to user browser",
+  "protocol": "file://",
+  "dataCheck": {
+    "thresholds": 10012,
+    "mismatches": []
+  },
+  "distribution_combinations": 180,
+  "risk_combinations": 40,
+  "playback": [
+    {
+      "src": "media/autovla_3s_6ec9c290f821534d/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "currentTime": 0.585561,
+      "playing": true
+    },
+    {
+      "src": "media/impromptu_3s_b53db7bbc74956ed/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "currentTime": 0.593488,
+      "playing": true
+    },
+    {
+      "src": "media/orion_3s_8209f8f2adbb584e/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "currentTime": 0.590559,
+      "playing": true
+    },
+    {
+      "src": "media/opendrivevla_3s_6ec9c290f821534d/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "currentTime": 0.582366,
+      "playing": true
+    }
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "broken": [],
+  "network": [],
+  "errors": [],
+  "failed": []
+}

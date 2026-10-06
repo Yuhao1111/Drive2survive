@@ -1,0 +1,50 @@
+[
+  {
+    "scope": "saved_common3s",
+    "model": "autovla",
+    "scenes": 2,
+    "path": "media/contact_sheet_saved_common3s_autovla.jpg"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "impromptu",
+    "scenes": 6,
+    "path": "media/contact_sheet_saved_common3s_impromptu.jpg"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "orion",
+    "scenes": 3,
+    "path": "media/contact_sheet_saved_common3s_orion.jpg"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "opendrivevla",
+    "scenes": 2,
+    "path": "media/contact_sheet_saved_common3s_opendrivevla.jpg"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "autovla",
+    "scenes": 12,
+    "path": "media/contact_sheet_available_horizon_autovla.jpg"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "impromptu",
+    "scenes": 6,
+    "path": "media/contact_sheet_available_horizon_impromptu.jpg"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "orion",
+    "scenes": 13,
+    "path": "media/contact_sheet_available_horizon_orion.jpg"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "opendrivevla",
+    "scenes": 2,
+    "path": "media/contact_sheet_available_horizon_opendrivevla.jpg"
+  }
+]

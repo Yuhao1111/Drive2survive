@@ -1,0 +1,2 @@
+﻿model,token,run_id,horizon_s,time_s,actor_id,actor_type,sector
+impromptu,1dae5903323e5214,impromptu_3s_1dae5903323e5214,3.0,3.0,981ae42deb43557d,BARRIER,LEFT

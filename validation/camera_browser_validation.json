@@ -1,0 +1,163 @@
+{
+  "status": "PASS",
+  "method": "Dedicated offline headless Edge artifact QA after browser-plugin bootstrap unavailable; no attachment to user session",
+  "protocol": "file://",
+  "all_numeric_dashboard_data_unchanged": true,
+  "counts": [
+    {
+      "scope": "saved_common3s",
+      "model": "autovla",
+      "n": 2
+    },
+    {
+      "scope": "saved_common3s",
+      "model": "impromptu",
+      "n": 6
+    },
+    {
+      "scope": "saved_common3s",
+      "model": "orion",
+      "n": 3
+    },
+    {
+      "scope": "saved_common3s",
+      "model": "opendrivevla",
+      "n": 2
+    },
+    {
+      "scope": "available_horizon",
+      "model": "autovla",
+      "n": 12
+    },
+    {
+      "scope": "available_horizon",
+      "model": "impromptu",
+      "n": 6
+    },
+    {
+      "scope": "available_horizon",
+      "model": "orion",
+      "n": 13
+    },
+    {
+      "scope": "available_horizon",
+      "model": "opendrivevla",
+      "n": 2
+    }
+  ],
+  "reference": "Model\tContact / selected\tEmpirical fraction\tWilson 95%\tAll-target coverage\tMetric-eligible recall\tEligible / cohort\tExcluded\nAutoVLA\t1/2\t50.0%\t9.5% – 90.5%\t1/2 (50.0%)\t1/2 (50.0%)\t100/100\t0\nImpromptu-VLA\t2/4\t50.0%\t15.0% – 85.0%\t2/6 (33.3%)\t2/6 (33.3%)\t100/100\t0\nORION *\t3/4\t75.0%\t30.1% – 95.4%\t3/3 (100.0%)\t3/3 (100.0%)\t100/100\t0\nOpenDriveVLA\t1/2\t50.0%\t9.5% – 90.5%\t1/2 (50.0%)\t1/2 (50.0%)\t100/100\t0",
+  "playback": [
+    {
+      "model": "autovla",
+      "src": "media/autovla_4s_422f254389a65c1d/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 12.933333,
+      "playing": true,
+      "advanced": 0.626403,
+      "start_seek_s": 0.2,
+      "later_seek_s": 5.848333333333333,
+      "camera_hashes_at_t0": [
+        "e8615ce41f28b0e7b8caa8621b372fe1ca4063be1d09e46f4e42a46f5941cadb",
+        "0489ce5e31a2e3021c48490f49c8caafb962a6659a7af773f758727697e6c291",
+        "a04d3e92bf4745f92009e9ea7575d90fde8db05693717a5d11be9e7d7211eb99"
+      ],
+      "camera_hashes_at_physical_2s": [
+        "07ed29283f6fe70b2cef8fe70e9de4a321c8cd8c7ba382d6b11fd61f43bc3231",
+        "9efbc56a45d701d54ccde3a4985ac79f44285ba36cff0f29dd50c03794d5c505",
+        "9c043a8e8af842cb7ca9cdb86228eb711a4b913833cff945833ac979e3550bda"
+      ],
+      "camera_views_changed": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "model": "impromptu",
+      "src": "media/impromptu_3s_b53db7bbc74956ed/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "playing": true,
+      "advanced": 0.630157,
+      "start_seek_s": 0.2,
+      "later_seek_s": 6.848333333333333,
+      "camera_hashes_at_t0": [
+        "d2adffb043a2ad8fa9b94e9cf3605fc43189d8df83d48db4ad7fb44d2e90fdd3",
+        "4bb0c076aa0d2a5badbcc1bad2654ee2ed28de55fbb9ddead288c2b608be1874",
+        "5d0b2bd85d84dad33f4cdf8a0369304b958cf0824642b4738fe7a7c601bcd245"
+      ],
+      "camera_hashes_at_physical_2s": [
+        "5156b43415b79976c594c8bd36a9b8564c0a84dc7ba17acbeb8615bfbdd3cd6b",
+        "bc6494c0bf8f85dd210a35235835e638b4a78546918f5803206a826e0dfdae17",
+        "8bd37d704ec306cadaf8c6b7648a8f86e6ba9f280866ad496a78c61a2b210900"
+      ],
+      "camera_views_changed": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "model": "orion",
+      "src": "media/orion_4s_422f254389a65c1d/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 12.933333,
+      "playing": true,
+      "advanced": 0.632126,
+      "start_seek_s": 0.2,
+      "later_seek_s": 5.848333333333333,
+      "camera_hashes_at_t0": [
+        "c9495a64b0870118b007bbabc8484eddf29db1817844f0e8ca06ac4fc7d3f4d3",
+        "0336043683017b61c7b9fa8f2ef1f12dc14baab977a31a6c69cfa17cb1f68b37",
+        "af9912de2e8d099094c256704fd52ae3b18d2bfb2b0b99223fb9c916ba3e0fbc"
+      ],
+      "camera_hashes_at_physical_2s": [
+        "3f862008298d55661ce4d3aaa4c24ca67018239002413155ca1de782cc5bccfb",
+        "a152d144096377bff38bb374ff19c35072ea3bf51c50e098d888ab7e6573a0ec",
+        "f45849e5ea2738e1653314e0ea2083943ae563de2598d2721a26703013969ad6"
+      ],
+      "camera_views_changed": [
+        true,
+        true,
+        true
+      ]
+    },
+    {
+      "model": "opendrivevla",
+      "src": "media/opendrivevla_3s_6ec9c290f821534d/execution.mp4",
+      "width": 1920,
+      "height": 1080,
+      "duration": 10.266667,
+      "playing": true,
+      "advanced": 0.626281,
+      "start_seek_s": 0.2,
+      "later_seek_s": 5.848333333333333,
+      "camera_hashes_at_t0": [
+        "6693c96f5729c4207f0db199e59f0fab6800e48a4a5680ce5669af5ab176c964",
+        "c3ca99d6d0382bca96b0084da46c408ba28fefbf8e410f1fb52f75e521563f4c",
+        "3270ba9d7915790818820fdfd0f58eaf273951d908607d501f49e3734e94e8fb"
+      ],
+      "camera_hashes_at_physical_2s": [
+        "d6ed60bf638e85df850afb0cf04d36847f9f23281c53003901835aaeea2b18c5",
+        "e19748f173eb7f1100eefffbee81a8681f0cced9fda58fe44ed6cb5d36e90271",
+        "ec2571f9faab81c4ebac2b538fd678b4fc36ab1eb9f99d235e7dc3b132b9405a"
+      ],
+      "camera_views_changed": [
+        true,
+        true,
+        true
+      ]
+    }
+  ],
+  "mobile": {
+    "width": 390,
+    "scrollWidth": 390
+  },
+  "broken": [],
+  "network": [],
+  "errors": [],
+  "failed": []
+}

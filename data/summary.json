@@ -1,0 +1,98 @@
+[
+  {
+    "scope": "saved_common3s",
+    "model": "autovla",
+    "model_display": "AutoVLA",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 2,
+    "contract": "PREVIOUSLY_VALIDATED"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "impromptu",
+    "model_display": "Impromptu-VLA",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 6,
+    "contract": "PREVIOUSLY_VALIDATED"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "orion",
+    "model_display": "ORION",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 3,
+    "contract": "AS-RETURNED DIAGNOSTIC / UNRESOLVED"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "opendrivevla",
+    "model_display": "OpenDriveVLA",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 2,
+    "contract": "ARCHIVE_RECORDED_PASS"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "autovla",
+    "model_display": "AutoVLA",
+    "horizon_s": 4.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 12,
+    "contract": "PREVIOUSLY_VALIDATED"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "impromptu",
+    "model_display": "Impromptu-VLA",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 6,
+    "contract": "PREVIOUSLY_VALIDATED"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "orion",
+    "model_display": "ORION",
+    "horizon_s": 4.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 13,
+    "contract": "AS-RETURNED DIAGNOSTIC / UNRESOLVED"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "opendrivevla",
+    "model_display": "OpenDriveVLA",
+    "horizon_s": 3.0,
+    "success": 100,
+    "failed": 0,
+    "not_run": 0,
+    "valid_n": 100,
+    "contact_scenes": 2,
+    "contract": "ARCHIVE_RECORDED_PASS"
+  }
+]

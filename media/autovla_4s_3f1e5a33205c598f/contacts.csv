@@ -1,0 +1,3 @@
+﻿model,token,run_id,horizon_s,time_s,actor_id,actor_type,sector
+autovla,3f1e5a33205c598f,autovla_4s_3f1e5a33205c598f,4.0,3.9,03c8991d51af55bb,VEHICLE,FRONT
+autovla,3f1e5a33205c598f,autovla_4s_3f1e5a33205c598f,4.0,4.0,03c8991d51af55bb,VEHICLE,FRONT

@@ -1,0 +1,15 @@
+﻿model,token,run_id,horizon_s,time_s,actor_id,actor_type,sector
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,1.7,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,1.8,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,1.9,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.0,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.1,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.2,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.3,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.4,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.5,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.6,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.7,284e02c314dc5d3b,VEHICLE,LEFT
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.8,284e02c314dc5d3b,VEHICLE,REAR
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,2.9,284e02c314dc5d3b,VEHICLE,REAR
+orion,39bcaa3072bc5198,orion_3s_39bcaa3072bc5198,3.0,3.0,284e02c314dc5d3b,VEHICLE,REAR

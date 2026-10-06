@@ -1,0 +1,481 @@
+﻿scope,model,window,metric,target,status,threshold,operator,k,n,eligible_n,eligible_contacts,all_target_contacts,all_target_coverage,wilson_lower,wilson_upper,selected_tokens,lower_bound_reaches_target,run_source,scope_reuse_note
+saved_common3s,autovla,FULL_ROLLOUT,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,FULL_ROLLOUT,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TTC,0.8,LOW_SUPPORT,0.1,<,6,7,100,6,6,1.0,0.4868721707256811,0.9743203756552565,"[""b53db7bbc74956ed"", ""f3615bab6c3b5814"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""49d4967297bb5f9d"", ""5099c20d468f5cf4""]",False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TTC,0.9,NOT_REACHED,,<,,,100,6,6,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,TTC,0.8,LOW_SUPPORT,0.1,<,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,FULL_ROLLOUT,TTC,0.9,LOW_SUPPORT,0.1,<,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,TTC,0.8,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TTC,0.9,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.05912478777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,autovla,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.05912478777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.493813252675,>,2,2,100,6,6,0.3333333333333333,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.493813252675,>,2,2,100,6,6,0.3333333333333333,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+saved_common3s,orion,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.511838238113,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.511838238113,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,FULL_ROLLOUT,DRAC,0.8,LOW_SUPPORT,76.47540898683391,>,1,1,35,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,autovla,FULL_ROLLOUT,DRAC,0.9,LOW_SUPPORT,76.47540898683391,>,1,1,35,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,FULL_ROLLOUT,DRAC,0.8,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,DRAC,0.9,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,DRAC,0.8,NOT_REACHED,,>,,,35,2,3,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,DRAC,0.9,NOT_REACHED,,>,,,35,2,3,,,,[],False,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,DRAC,0.8,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,DRAC,0.9,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,6,0,2,,,,[],False,,
+saved_common3s,autovla,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,6,0,2,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,5,1,3,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,5,1,3,,,,[],False,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,3,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,3,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,FULL_ROLLOUT,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,FULL_ROLLOUT,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,impromptu,FULL_ROLLOUT,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,orion,FULL_ROLLOUT,TET,0.8,LOW_SUPPORT,2.8,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,FULL_ROLLOUT,TET,0.9,LOW_SUPPORT,2.8,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,TET,0.8,LOW_SUPPORT,2.8,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TET,0.9,LOW_SUPPORT,2.8,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TTC,0.8,LOW_SUPPORT,0.2,<,5,6,100,6,6,0.8333333333333334,0.43649717781352987,0.9699466302516935,"[""b53db7bbc74956ed"", ""f3615bab6c3b5814"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TTC,0.9,NOT_REACHED,,<,,,100,6,6,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TTC,0.8,LOW_SUPPORT,0.1,<,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TTC,0.9,LOW_SUPPORT,0.1,<,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TTC,0.8,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TTC,0.9,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,TIT,0.8,LOW_SUPPORT,4.05912478777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TIT,0.9,LOW_SUPPORT,4.05912478777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TIT,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TIT,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TIT,0.8,LOW_SUPPORT,4.511838238113,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TIT,0.9,LOW_SUPPORT,4.511838238113,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TIT,0.8,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TIT,0.9,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,DRAC,0.8,LOW_SUPPORT,76.47540898683391,>,1,1,35,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,DRAC,0.9,LOW_SUPPORT,76.47540898683391,>,1,1,35,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,DRAC,0.8,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,DRAC,0.9,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,DRAC,0.8,NOT_REACHED,,>,,,35,2,3,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,DRAC,0.9,NOT_REACHED,,>,,,35,2,3,,,,[],False,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,DRAC,0.8,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,DRAC,0.9,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,7,1,2,,,,[],False,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,7,1,2,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,5,1,3,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,5,1,3,,,,[],False,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,4,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,4,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,3,3,,,,[],False,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,3,3,,,,[],False,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,0,0,,,,[],False,,
+saved_common3s,autovla,L1_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,0,0,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,L1_NEXT1S,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,orion,L1_NEXT1S,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+saved_common3s,orion,L1_NEXT1S,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+saved_common3s,opendrivevla,L1_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+saved_common3s,autovla,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,TIT,0.8,LOW_SUPPORT,1.76261686777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,L1_NEXT1S,TIT,0.9,LOW_SUPPORT,1.76261686777,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,17,0,0,,,,[],False,,
+saved_common3s,autovla,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,17,0,0,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,DRAC,0.8,LOW_SUPPORT,1.0100312113315493,>,2,2,18,2,2,1.0,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,L1_NEXT1S,DRAC,0.9,LOW_SUPPORT,1.0100312113315493,>,2,2,18,2,2,1.0,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+saved_common3s,orion,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,29,2,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,29,2,2,,,,[],False,,
+saved_common3s,opendrivevla,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,16,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,16,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,,
+saved_common3s,autovla,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,opendrivevla,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+saved_common3s,autovla,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,orion,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,opendrivevla,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L1_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,6,6,0.16666666666666666,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,6,6,0.16666666666666666,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,orion,L1_TO_HORIZON,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+saved_common3s,orion,L1_TO_HORIZON,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L1_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,orion,L1_TO_HORIZON,TIT,0.8,LOW_SUPPORT,1.76261686777,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,L1_TO_HORIZON,TIT,0.9,LOW_SUPPORT,1.76261686777,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,TIT,0.8,LOW_SUPPORT,1.337523464066,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TIT,0.9,LOW_SUPPORT,1.337523464066,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,17,1,2,,,,[],False,,
+saved_common3s,autovla,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,17,1,2,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,0.8464131824115989,>,4,5,18,4,6,0.6666666666666666,0.37553462976252533,0.9637758913675698,"[""b53db7bbc74956ed"", ""ca9282f2898e5016"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+saved_common3s,impromptu,L1_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,0.8936660036514863,>,4,4,18,4,6,0.6666666666666666,0.5101091635454027,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+saved_common3s,orion,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,29,2,3,,,,[],False,,
+saved_common3s,orion,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,29,2,3,,,,[],False,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,16,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,16,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,autovla,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,6,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,6,,,,[],False,,
+saved_common3s,orion,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,3,,,,[],False,,
+saved_common3s,orion,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,3,,,,[],False,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,impromptu,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+saved_common3s,orion,L1_TO_HORIZON,TET,0.8,LOW_SUPPORT,0.8,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,orion,L1_TO_HORIZON,TET,0.9,LOW_SUPPORT,0.8,>,3,3,100,3,3,1.0,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,3.043309816793,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,autovla,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,3.043309816793,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,impromptu,L2_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,3.292905407142,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,orion,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,3.292905407142,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,opendrivevla,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,DRAC,0.8,LOW_SUPPORT,1.3773700258477355,>,1,1,31,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,autovla,L2_NEXT1S,DRAC,0.9,LOW_SUPPORT,1.3773700258477355,>,1,1,31,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,L2_NEXT1S,DRAC,0.8,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+saved_common3s,impromptu,L2_NEXT1S,DRAC,0.9,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+saved_common3s,orion,L2_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,31,0,1,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,31,0,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,autovla,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_NEXT1S,TET,0.8,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,orion,L2_NEXT1S,TET,0.9,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,opendrivevla,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,3.043309816793,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,autovla,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,3.043309816793,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,3.292905407142,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,orion,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,3.292905407142,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,1.3773700258477355,>,1,1,31,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,autovla,L2_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,1.3773700258477355,>,1,1,31,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+saved_common3s,impromptu,L2_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+saved_common3s,impromptu,L2_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+saved_common3s,orion,L2_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,31,0,1,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,31,0,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,autovla,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,autovla,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,impromptu,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+saved_common3s,orion,L2_TO_HORIZON,TET,0.8,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,orion,L2_TO_HORIZON,TET,0.9,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,TTC,0.8,EMPIRICAL_POINT_ONLY,0.4,<,12,14,100,12,12,1.0,0.6005862050302965,0.9599060787285351,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""5db277770f485d58"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,FULL_ROLLOUT,TTC,0.9,EMPIRICAL_POINT_ONLY,0.2,<,12,13,100,12,12,1.0,0.6668604907890041,0.9862895787574435,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,TTC,0.8,LOW_SUPPORT,0.1,<,6,7,100,6,6,1.0,0.4868721707256811,0.9743203756552565,"[""b53db7bbc74956ed"", ""f3615bab6c3b5814"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""49d4967297bb5f9d"", ""5099c20d468f5cf4""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,TTC,0.9,NOT_REACHED,,<,,,100,6,6,,,,[],False,,
+available_horizon,orion,FULL_ROLLOUT,TTC,0.8,EMPIRICAL_POINT_ONLY,0.5,<,13,16,100,13,13,1.0,0.5699111903802586,0.9340840092857187,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,FULL_ROLLOUT,TTC,0.9,EMPIRICAL_POINT_ONLY,0.1,<,13,14,100,13,13,1.0,0.6853129557584889,0.9872777847521093,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,FULL_ROLLOUT,TTC,0.8,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TTC,0.9,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,TIT,0.8,EMPIRICAL_POINT_ONLY,2.147721217946,>,12,15,100,12,12,1.0,0.5481455128483065,0.9295245065301844,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""5db277770f485d58"", ""39bcaa3072bc5198"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,FULL_ROLLOUT,TIT,0.9,EMPIRICAL_POINT_ONLY,2.799816095952,>,11,12,100,12,12,0.9166666666666666,0.646120088858883,0.9851349055950829,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""6ec9c290f821534d"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.493813252675,>,2,2,100,6,6,0.3333333333333333,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.493813252675,>,2,2,100,6,6,0.3333333333333333,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+available_horizon,orion,FULL_ROLLOUT,TIT,0.8,EMPIRICAL_POINT_ONLY,1.771649680848,>,13,16,100,13,13,1.0,0.5699111903802586,0.9340840092857187,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,FULL_ROLLOUT,TIT,0.9,EMPIRICAL_POINT_ONLY,2.601925137896,>,13,14,100,13,13,1.0,0.6853129557584889,0.9872777847521093,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,FULL_ROLLOUT,TIT,0.8,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TIT,0.9,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,DRAC,0.8,EMPIRICAL_POINT_ONLY,2.617232137518682,>,9,11,39,10,12,0.75,0.523019438039156,0.9486323102539149,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""ab1bf45f53775c5b"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,FULL_ROLLOUT,DRAC,0.9,EMPIRICAL_POINT_ONLY,4.451926701886994,>,9,10,39,10,12,0.75,0.5958499732047615,0.9821237869049271,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,DRAC,0.8,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+available_horizon,impromptu,FULL_ROLLOUT,DRAC,0.9,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+available_horizon,orion,FULL_ROLLOUT,DRAC,0.8,EMPIRICAL_POINT_ONLY,1.3408719708026056,>,10,12,44,12,13,0.7692307692307693,0.5519691377470266,0.9530348578161463,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""701c95bcdaa65c14"", ""0940095562a855b3"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,FULL_ROLLOUT,DRAC,0.9,EMPIRICAL_POINT_ONLY,1.5936210299095266,>,10,11,44,12,13,0.7692307692307693,0.6226415635484043,0.9837678271141151,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,FULL_ROLLOUT,DRAC,0.8,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,DRAC,0.9,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,10,1,12,,,,[],False,,
+available_horizon,autovla,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,10,1,12,,,,[],False,,
+available_horizon,impromptu,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+available_horizon,impromptu,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+available_horizon,orion,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,10,1,13,,,,[],False,,
+available_horizon,orion,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,10,1,13,,,,[],False,,
+available_horizon,opendrivevla,FULL_ROLLOUT,PET,0.8,NOT_REACHED,,<,,,3,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,PET,0.9,NOT_REACHED,,<,,,3,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,TET,0.8,LOW_SUPPORT,3.5,>,1,1,100,12,12,0.08333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,autovla,FULL_ROLLOUT,TET,0.9,LOW_SUPPORT,3.5,>,1,1,100,12,12,0.08333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,impromptu,FULL_ROLLOUT,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,impromptu,FULL_ROLLOUT,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,orion,FULL_ROLLOUT,TET,0.8,EMPIRICAL_POINT_ONLY,1.7,>,13,16,100,13,13,1.0,0.5699111903802586,0.9340840092857187,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b53db7bbc74956ed"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""95b3595ca518544f"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,FULL_ROLLOUT,TET,0.9,LOW_SUPPORT,3.8,>,3,3,100,13,13,0.23076923076923078,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,opendrivevla,FULL_ROLLOUT,TET,0.8,LOW_SUPPORT,2.8,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TET,0.9,LOW_SUPPORT,2.8,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,TTC,0.8,EMPIRICAL_POINT_ONLY,0.4,<,12,14,100,12,12,1.0,0.6005862050302965,0.9599060787285351,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""5db277770f485d58"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TTC,0.9,EMPIRICAL_POINT_ONLY,0.3,<,12,13,100,12,12,1.0,0.6668604907890041,0.9862895787574435,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TTC,0.8,LOW_SUPPORT,0.2,<,5,6,100,6,6,0.8333333333333334,0.43649717781352987,0.9699466302516935,"[""b53db7bbc74956ed"", ""f3615bab6c3b5814"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TTC,0.9,NOT_REACHED,,<,,,100,6,6,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TTC,0.8,EMPIRICAL_POINT_ONLY,0.5,<,13,16,100,13,13,1.0,0.5699111903802586,0.9340840092857187,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TTC,0.9,EMPIRICAL_POINT_ONLY,0.1,<,13,14,100,13,13,1.0,0.6853129557584889,0.9872777847521093,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TTC,0.8,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TTC,0.9,LOW_SUPPORT,0.1,<,2,2,100,2,2,1.0,0.34238022750665303,1,"[""6ec9c290f821534d"", ""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,TIT,0.8,EMPIRICAL_POINT_ONLY,2.738987195833,>,9,11,100,12,12,0.75,0.523019438039156,0.9486323102539149,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""b6ab726022e95c5b"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""7be91f052cec5ed4"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TIT,0.9,LOW_SUPPORT,4.194700918214,>,1,1,100,12,12,0.08333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TIT,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TIT,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TIT,0.8,EMPIRICAL_POINT_ONLY,1.771649680848,>,13,16,100,13,13,1.0,0.5699111903802586,0.9340840092857187,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""4ead44db2ea5571f"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TIT,0.9,EMPIRICAL_POINT_ONLY,2.601925137896,>,12,13,100,13,13,0.9230769230769231,0.6668604907890041,0.9862895787574435,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""ab1bf45f53775c5b"", ""334ab077c2ef50a2"", ""9513ed317ce95815"", ""182af302b08b5c94"", ""39bcaa3072bc5198"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TIT,0.8,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TIT,0.9,LOW_SUPPORT,4.177930831065,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,DRAC,0.8,EMPIRICAL_POINT_ONLY,2.617232137518682,>,9,11,39,10,12,0.75,0.523019438039156,0.9486323102539149,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""ab1bf45f53775c5b"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,autovla,PRE_FIRST_CONTACT,DRAC,0.9,EMPIRICAL_POINT_ONLY,4.451926701886994,>,9,10,39,10,12,0.75,0.5958499732047615,0.9821237869049271,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""0940095562a855b3"", ""8209f8f2adbb584e"", ""6ec9c290f821534d"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""3f1e5a33205c598f""]",False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,DRAC,0.8,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,DRAC,0.9,NOT_REACHED,,>,,,25,5,6,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,DRAC,0.8,EMPIRICAL_POINT_ONLY,1.3408719708026056,>,10,12,44,12,13,0.7692307692307693,0.5519691377470266,0.9530348578161463,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""701c95bcdaa65c14"", ""0940095562a855b3"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,orion,PRE_FIRST_CONTACT,DRAC,0.9,EMPIRICAL_POINT_ONLY,1.5936210299095266,>,10,11,44,12,13,0.7692307692307693,0.6226415635484043,0.9837678271141151,"[""422f254389a65c1d"", ""337aea84fc4c5751"", ""b6ab726022e95c5b"", ""d2fd90fae03b5ad4"", ""0940095562a855b3"", ""cc74fd0beab35567"", ""334ab077c2ef50a2"", ""182af302b08b5c94"", ""b62afb7b0d7a5e14"", ""42a646cf5e8a530e"", ""3f1e5a33205c598f""]",False,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,DRAC,0.8,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,DRAC,0.9,LOW_SUPPORT,5.381076161799973,>,1,1,22,1,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,14,5,12,,,,[],False,,
+available_horizon,autovla,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,14,5,12,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,4,2,6,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,18,9,13,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,18,9,13,,,,[],False,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,PET,0.8,NOT_REACHED,,<,,,4,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,PET,0.9,NOT_REACHED,,<,,,4,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,13,13,,,,[],False,,
+available_horizon,orion,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,13,13,,,,[],False,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,0,0,,,,[],False,,
+available_horizon,autovla,L1_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,0,0,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,L1_NEXT1S,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,orion,L1_NEXT1S,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+available_horizon,orion,L1_NEXT1S,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,2,2,0.5,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+available_horizon,opendrivevla,L1_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+available_horizon,autovla,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,TIT,0.8,LOW_SUPPORT,1.762630966737,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+available_horizon,orion,L1_NEXT1S,TIT,0.9,LOW_SUPPORT,1.762630966737,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+available_horizon,opendrivevla,L1_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,16,0,0,,,,[],False,,
+available_horizon,autovla,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,16,0,0,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,DRAC,0.8,LOW_SUPPORT,1.0100312113315493,>,2,2,18,2,2,1.0,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,L1_NEXT1S,DRAC,0.9,LOW_SUPPORT,1.0100312113315493,>,2,2,18,2,2,1.0,0.34238022750665303,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d""]",False,,
+available_horizon,orion,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,29,2,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,29,2,2,,,,[],False,,
+available_horizon,opendrivevla,L1_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,16,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,16,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,,
+available_horizon,autovla,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,,
+available_horizon,opendrivevla,L1_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+available_horizon,autovla,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,impromptu,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,orion,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,,
+available_horizon,opendrivevla,L1_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,0,0,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,12,12,,,,[],False,,
+available_horizon,autovla,L1_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,TTC,0.8,LOW_SUPPORT,0.3,<,1,1,100,6,6,0.16666666666666666,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,L1_TO_HORIZON,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,6,6,0.16666666666666666,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,orion,L1_TO_HORIZON,TTC,0.8,LOW_SUPPORT,2.5,<,4,5,100,13,13,0.3076923076923077,0.37553462976252533,0.9637758913675698,"[""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,orion,L1_TO_HORIZON,TTC,0.9,LOW_SUPPORT,0.3,<,1,1,100,13,13,0.07692307692307693,0.20654931437723745,1,"[""8209f8f2adbb584e""]",False,,
+available_horizon,opendrivevla,L1_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,autovla,L1_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,orion,L1_TO_HORIZON,TIT,0.8,LOW_SUPPORT,0.055476560998,>,4,5,100,13,13,0.3076923076923077,0.37553462976252533,0.9637758913675698,"[""0940095562a855b3"", ""8209f8f2adbb584e"", ""ab1bf45f53775c5b"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,orion,L1_TO_HORIZON,TIT,0.9,LOW_SUPPORT,1.762630966737,>,1,1,100,13,13,0.07692307692307693,0.20654931437723745,1,"[""39bcaa3072bc5198""]",False,,
+available_horizon,opendrivevla,L1_TO_HORIZON,TIT,0.8,LOW_SUPPORT,1.337523464066,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TIT,0.9,LOW_SUPPORT,1.337523464066,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,16,2,12,,,,[],False,,
+available_horizon,autovla,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,16,2,12,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,0.8464131824115989,>,4,5,18,4,6,0.6666666666666666,0.37553462976252533,0.9637758913675698,"[""b53db7bbc74956ed"", ""ca9282f2898e5016"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+available_horizon,impromptu,L1_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,0.8936660036514863,>,4,4,18,4,6,0.6666666666666666,0.5101091635454027,1,"[""b53db7bbc74956ed"", ""6ec9c290f821534d"", ""1dae5903323e5214"", ""5099c20d468f5cf4""]",False,,
+available_horizon,orion,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,29,12,13,,,,[],False,,
+available_horizon,orion,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,29,12,13,,,,[],False,,
+available_horizon,opendrivevla,L1_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,16,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,16,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,12,,,,[],False,,
+available_horizon,autovla,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,12,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,6,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,6,,,,[],False,,
+available_horizon,orion,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,13,,,,[],False,,
+available_horizon,orion,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,13,,,,[],False,,
+available_horizon,opendrivevla,L1_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,autovla,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,impromptu,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,6,6,,,,[],False,,
+available_horizon,orion,L1_TO_HORIZON,TET,0.8,LOW_SUPPORT,0.8,>,3,3,100,13,13,0.23076923076923078,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,orion,L1_TO_HORIZON,TET,0.9,LOW_SUPPORT,0.8,>,3,3,100,13,13,0.23076923076923078,0.4385029682449546,1,"[""8209f8f2adbb584e"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,opendrivevla,L1_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,3,3,,,,[],False,,
+available_horizon,autovla,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,3,3,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,98,1,1,,,,[],False,,
+available_horizon,opendrivevla,L2_NEXT1S,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,3.043126246957,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,autovla,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,3.043126246957,>,1,1,100,3,3,0.3333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,impromptu,L2_NEXT1S,TIT,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,TIT,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,3.292225979911,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,orion,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,3.292225979911,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,opendrivevla,L2_NEXT1S,TIT,0.8,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TIT,0.9,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,DRAC,0.8,LOW_SUPPORT,1.3568595593374828,>,1,1,30,2,3,0.3333333333333333,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,autovla,L2_NEXT1S,DRAC,0.9,LOW_SUPPORT,1.3568595593374828,>,1,1,30,2,3,0.3333333333333333,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,L2_NEXT1S,DRAC,0.8,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+available_horizon,impromptu,L2_NEXT1S,DRAC,0.9,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+available_horizon,orion,L2_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,32,0,1,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,32,0,1,,,,[],False,,
+available_horizon,opendrivevla,L2_NEXT1S,DRAC,0.8,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,DRAC,0.9,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,3,,,,[],False,,
+available_horizon,autovla,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,3,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,1,,,,[],False,,
+available_horizon,opendrivevla,L2_NEXT1S,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,3,3,,,,[],False,,
+available_horizon,autovla,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,3,3,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_NEXT1S,TET,0.8,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,orion,L2_NEXT1S,TET,0.9,LOW_SUPPORT,1.8,>,1,1,98,1,1,1.0,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,opendrivevla,L2_NEXT1S,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,TTC,0.8,LOW_SUPPORT,1.7,<,5,6,100,12,12,0.4166666666666667,0.43649717781352987,0.9699466302516935,"[""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""6ec9c290f821534d"", ""9513ed317ce95815"", ""39bcaa3072bc5198"", ""7be91f052cec5ed4""]",False,,
+available_horizon,autovla,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,98,11,11,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,98,11,11,,,,[],False,,
+available_horizon,opendrivevla,L2_TO_HORIZON,TTC,0.8,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TTC,0.9,NOT_REACHED,,<,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,0.471884638993,>,4,5,100,12,12,0.3333333333333333,0.37553462976252533,0.9637758913675698,"[""337aea84fc4c5751"", ""19d2e2c7197c5211"", ""6ec9c290f821534d"", ""9513ed317ce95815"", ""39bcaa3072bc5198""]",False,,
+available_horizon,autovla,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,3.043126246957,>,1,1,100,12,12,0.08333333333333333,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,impromptu,L2_TO_HORIZON,TIT,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,TIT,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,3.292225979911,>,1,1,98,11,11,0.09090909090909091,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,orion,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,3.292225979911,>,1,1,98,11,11,0.09090909090909091,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,opendrivevla,L2_TO_HORIZON,TIT,0.8,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TIT,0.9,LOW_SUPPORT,2.803021283196,>,1,1,100,2,2,0.5,0.20654931437723745,1,"[""9513ed317ce95815""]",False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,1.3568595593374828,>,1,1,30,8,12,0.08333333333333333,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,autovla,L2_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,1.3568595593374828,>,1,1,30,8,12,0.08333333333333333,0.20654931437723745,1,"[""6ec9c290f821534d""]",False,,
+available_horizon,impromptu,L2_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+available_horizon,impromptu,L2_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,4.5583032277703905,>,1,1,20,3,4,0.25,0.20654931437723745,1,"[""49d4967297bb5f9d""]",False,,
+available_horizon,orion,L2_TO_HORIZON,DRAC,0.8,LOW_SUPPORT,1.3408719708026056,>,1,1,32,10,11,0.09090909090909091,0.20654931437723745,1,"[""0940095562a855b3""]",False,,
+available_horizon,orion,L2_TO_HORIZON,DRAC,0.9,LOW_SUPPORT,1.3408719708026056,>,1,1,32,10,11,0.09090909090909091,0.20654931437723745,1,"[""0940095562a855b3""]",False,,
+available_horizon,opendrivevla,L2_TO_HORIZON,DRAC,0.8,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,DRAC,0.9,NOT_REACHED,,>,,,19,1,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,12,,,,[],False,,
+available_horizon,autovla,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,12,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,4,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,11,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,11,,,,[],False,,
+available_horizon,opendrivevla,L2_TO_HORIZON,PET,0.8,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,PET,0.9,NO_ELIGIBLE_DATA,,<,,,0,0,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,autovla,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,12,12,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,impromptu,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,98,4,4,,,,[],False,,
+available_horizon,orion,L2_TO_HORIZON,TET,0.8,LOW_SUPPORT,1.8,>,1,1,98,11,11,0.09090909090909091,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,orion,L2_TO_HORIZON,TET,0.9,LOW_SUPPORT,1.8,>,1,1,98,11,11,0.09090909090909091,0.20654931437723745,1,"[""9513ed317ce95815""]",False,,
+available_horizon,opendrivevla,L2_TO_HORIZON,TET,0.8,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TET,0.9,NOT_REACHED,,>,,,100,2,2,,,,[],False,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."

@@ -1,0 +1,207 @@
+[
+  {
+    "name": "F3_compact_saved_common3s_FULL_ROLLOUT",
+    "png": "figures/F3_compact_saved_common3s_FULL_ROLLOUT.png",
+    "svg": "figures/F3_compact_saved_common3s_FULL_ROLLOUT.svg"
+  },
+  {
+    "name": "pair_saved_common3s_FULL_ROLLOUT_TTC",
+    "png": "figures/pair_saved_common3s_FULL_ROLLOUT_TTC.png",
+    "svg": "figures/pair_saved_common3s_FULL_ROLLOUT_TTC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_FULL_ROLLOUT_TIT",
+    "png": "figures/pair_saved_common3s_FULL_ROLLOUT_TIT.png",
+    "svg": "figures/pair_saved_common3s_FULL_ROLLOUT_TIT.svg"
+  },
+  {
+    "name": "pair_saved_common3s_FULL_ROLLOUT_DRAC",
+    "png": "figures/pair_saved_common3s_FULL_ROLLOUT_DRAC.png",
+    "svg": "figures/pair_saved_common3s_FULL_ROLLOUT_DRAC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_FULL_ROLLOUT_PET",
+    "png": "figures/pair_saved_common3s_FULL_ROLLOUT_PET.png",
+    "svg": "figures/pair_saved_common3s_FULL_ROLLOUT_PET.svg"
+  },
+  {
+    "name": "pair_saved_common3s_FULL_ROLLOUT_TET",
+    "png": "figures/pair_saved_common3s_FULL_ROLLOUT_TET.png",
+    "svg": "figures/pair_saved_common3s_FULL_ROLLOUT_TET.svg"
+  },
+  {
+    "name": "F3_compact_saved_common3s_PRE_FIRST_CONTACT",
+    "png": "figures/F3_compact_saved_common3s_PRE_FIRST_CONTACT.png",
+    "svg": "figures/F3_compact_saved_common3s_PRE_FIRST_CONTACT.svg"
+  },
+  {
+    "name": "pair_saved_common3s_PRE_FIRST_CONTACT_TTC",
+    "png": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TTC.png",
+    "svg": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TTC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_PRE_FIRST_CONTACT_TIT",
+    "png": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TIT.png",
+    "svg": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TIT.svg"
+  },
+  {
+    "name": "pair_saved_common3s_PRE_FIRST_CONTACT_DRAC",
+    "png": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_DRAC.png",
+    "svg": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_DRAC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_PRE_FIRST_CONTACT_PET",
+    "png": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_PET.png",
+    "svg": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_PET.svg"
+  },
+  {
+    "name": "pair_saved_common3s_PRE_FIRST_CONTACT_TET",
+    "png": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TET.png",
+    "svg": "figures/pair_saved_common3s_PRE_FIRST_CONTACT_TET.svg"
+  },
+  {
+    "name": "F3_compact_saved_common3s_L1_TO_HORIZON",
+    "png": "figures/F3_compact_saved_common3s_L1_TO_HORIZON.png",
+    "svg": "figures/F3_compact_saved_common3s_L1_TO_HORIZON.svg"
+  },
+  {
+    "name": "pair_saved_common3s_L1_TO_HORIZON_TTC",
+    "png": "figures/pair_saved_common3s_L1_TO_HORIZON_TTC.png",
+    "svg": "figures/pair_saved_common3s_L1_TO_HORIZON_TTC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_L1_TO_HORIZON_TIT",
+    "png": "figures/pair_saved_common3s_L1_TO_HORIZON_TIT.png",
+    "svg": "figures/pair_saved_common3s_L1_TO_HORIZON_TIT.svg"
+  },
+  {
+    "name": "pair_saved_common3s_L1_TO_HORIZON_DRAC",
+    "png": "figures/pair_saved_common3s_L1_TO_HORIZON_DRAC.png",
+    "svg": "figures/pair_saved_common3s_L1_TO_HORIZON_DRAC.svg"
+  },
+  {
+    "name": "pair_saved_common3s_L1_TO_HORIZON_PET",
+    "png": "figures/pair_saved_common3s_L1_TO_HORIZON_PET.png",
+    "svg": "figures/pair_saved_common3s_L1_TO_HORIZON_PET.svg"
+  },
+  {
+    "name": "pair_saved_common3s_L1_TO_HORIZON_TET",
+    "png": "figures/pair_saved_common3s_L1_TO_HORIZON_TET.png",
+    "svg": "figures/pair_saved_common3s_L1_TO_HORIZON_TET.svg"
+  },
+  {
+    "name": "F3_compact_available_horizon_FULL_ROLLOUT",
+    "png": "figures/F3_compact_available_horizon_FULL_ROLLOUT.png",
+    "svg": "figures/F3_compact_available_horizon_FULL_ROLLOUT.svg"
+  },
+  {
+    "name": "pair_available_horizon_FULL_ROLLOUT_TTC",
+    "png": "figures/pair_available_horizon_FULL_ROLLOUT_TTC.png",
+    "svg": "figures/pair_available_horizon_FULL_ROLLOUT_TTC.svg"
+  },
+  {
+    "name": "pair_available_horizon_FULL_ROLLOUT_TIT",
+    "png": "figures/pair_available_horizon_FULL_ROLLOUT_TIT.png",
+    "svg": "figures/pair_available_horizon_FULL_ROLLOUT_TIT.svg"
+  },
+  {
+    "name": "pair_available_horizon_FULL_ROLLOUT_DRAC",
+    "png": "figures/pair_available_horizon_FULL_ROLLOUT_DRAC.png",
+    "svg": "figures/pair_available_horizon_FULL_ROLLOUT_DRAC.svg"
+  },
+  {
+    "name": "pair_available_horizon_FULL_ROLLOUT_PET",
+    "png": "figures/pair_available_horizon_FULL_ROLLOUT_PET.png",
+    "svg": "figures/pair_available_horizon_FULL_ROLLOUT_PET.svg"
+  },
+  {
+    "name": "pair_available_horizon_FULL_ROLLOUT_TET",
+    "png": "figures/pair_available_horizon_FULL_ROLLOUT_TET.png",
+    "svg": "figures/pair_available_horizon_FULL_ROLLOUT_TET.svg"
+  },
+  {
+    "name": "F3_compact_available_horizon_PRE_FIRST_CONTACT",
+    "png": "figures/F3_compact_available_horizon_PRE_FIRST_CONTACT.png",
+    "svg": "figures/F3_compact_available_horizon_PRE_FIRST_CONTACT.svg"
+  },
+  {
+    "name": "pair_available_horizon_PRE_FIRST_CONTACT_TTC",
+    "png": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TTC.png",
+    "svg": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TTC.svg"
+  },
+  {
+    "name": "pair_available_horizon_PRE_FIRST_CONTACT_TIT",
+    "png": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TIT.png",
+    "svg": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TIT.svg"
+  },
+  {
+    "name": "pair_available_horizon_PRE_FIRST_CONTACT_DRAC",
+    "png": "figures/pair_available_horizon_PRE_FIRST_CONTACT_DRAC.png",
+    "svg": "figures/pair_available_horizon_PRE_FIRST_CONTACT_DRAC.svg"
+  },
+  {
+    "name": "pair_available_horizon_PRE_FIRST_CONTACT_PET",
+    "png": "figures/pair_available_horizon_PRE_FIRST_CONTACT_PET.png",
+    "svg": "figures/pair_available_horizon_PRE_FIRST_CONTACT_PET.svg"
+  },
+  {
+    "name": "pair_available_horizon_PRE_FIRST_CONTACT_TET",
+    "png": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TET.png",
+    "svg": "figures/pair_available_horizon_PRE_FIRST_CONTACT_TET.svg"
+  },
+  {
+    "name": "F3_compact_available_horizon_L1_TO_HORIZON",
+    "png": "figures/F3_compact_available_horizon_L1_TO_HORIZON.png",
+    "svg": "figures/F3_compact_available_horizon_L1_TO_HORIZON.svg"
+  },
+  {
+    "name": "pair_available_horizon_L1_TO_HORIZON_TTC",
+    "png": "figures/pair_available_horizon_L1_TO_HORIZON_TTC.png",
+    "svg": "figures/pair_available_horizon_L1_TO_HORIZON_TTC.svg"
+  },
+  {
+    "name": "pair_available_horizon_L1_TO_HORIZON_TIT",
+    "png": "figures/pair_available_horizon_L1_TO_HORIZON_TIT.png",
+    "svg": "figures/pair_available_horizon_L1_TO_HORIZON_TIT.svg"
+  },
+  {
+    "name": "pair_available_horizon_L1_TO_HORIZON_DRAC",
+    "png": "figures/pair_available_horizon_L1_TO_HORIZON_DRAC.png",
+    "svg": "figures/pair_available_horizon_L1_TO_HORIZON_DRAC.svg"
+  },
+  {
+    "name": "pair_available_horizon_L1_TO_HORIZON_PET",
+    "png": "figures/pair_available_horizon_L1_TO_HORIZON_PET.png",
+    "svg": "figures/pair_available_horizon_L1_TO_HORIZON_PET.svg"
+  },
+  {
+    "name": "pair_available_horizon_L1_TO_HORIZON_TET",
+    "png": "figures/pair_available_horizon_L1_TO_HORIZON_TET.png",
+    "svg": "figures/pair_available_horizon_L1_TO_HORIZON_TET.svg"
+  },
+  {
+    "name": "F2_contact_times_saved_common3s",
+    "png": "figures/F2_contact_times_saved_common3s.png",
+    "svg": "figures/F2_contact_times_saved_common3s.svg"
+  },
+  {
+    "name": "F2_contact_times_available_horizon",
+    "png": "figures/F2_contact_times_available_horizon.png",
+    "svg": "figures/F2_contact_times_available_horizon.svg"
+  },
+  {
+    "name": "F4_TET_TIT",
+    "png": "figures/F4_TET_TIT.png",
+    "svg": "figures/F4_TET_TIT.svg"
+  },
+  {
+    "name": "F5_fixed_landmark_support",
+    "png": "figures/F5_fixed_landmark_support.png",
+    "svg": "figures/F5_fixed_landmark_support.svg"
+  },
+  {
+    "name": "F6_contact_matrix",
+    "png": "figures/F6_contact_matrix.png",
+    "svg": "figures/F6_contact_matrix.svg"
+  }
+]

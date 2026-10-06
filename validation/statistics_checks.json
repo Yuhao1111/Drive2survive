@@ -1,0 +1,1449 @@
+{
+  "status": "PASS",
+  "panels": [
+    {
+      "panel": "saved_common3s|autovla|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 113,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 109,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 116,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 108,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 56,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 46,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 56,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 43,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 113,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 109,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 116,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 108,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 56,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 46,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 56,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 43,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 36,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 39,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 50,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 36,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 39,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 50,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 74,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 75,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 81,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 72,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 52,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 52,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 74,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 75,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 81,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 72,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 52,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 52,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|autovla|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|impromptu|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|orion|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "saved_common3s|opendrivevla|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|FULL_ROLLOUT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 155,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 109,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 151,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|FULL_ROLLOUT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 108,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 60,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 46,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 65,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|FULL_ROLLOUT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 43,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|FULL_ROLLOUT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|FULL_ROLLOUT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|PRE_FIRST_CONTACT|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 155,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 109,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 151,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|PRE_FIRST_CONTACT|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 108,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 60,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 46,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 65,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|PRE_FIRST_CONTACT|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 43,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|PRE_FIRST_CONTACT|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|PRE_FIRST_CONTACT|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 36,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 39,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 50,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 36,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 38,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 39,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 50,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 37,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L1_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 11,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_NEXT1S|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 73,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 75,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 81,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_NEXT1S|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 72,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 51,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 53,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_NEXT1S|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_NEXT1S|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_NEXT1S|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_TO_HORIZON|TTC",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 73,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 75,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 81,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_TO_HORIZON|TIT",
+      "n_rows": 100,
+      "thresholds_recounted": 72,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 51,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 41,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 53,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_TO_HORIZON|DRAC",
+      "n_rows": 100,
+      "thresholds_recounted": 40,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_TO_HORIZON|PET",
+      "n_rows": 100,
+      "thresholds_recounted": 31,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|autovla|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|impromptu|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|orion|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    },
+    {
+      "panel": "available_horizon|opendrivevla|L2_TO_HORIZON|TET",
+      "n_rows": 100,
+      "thresholds_recounted": 21,
+      "status": "PASS"
+    }
+  ],
+  "thresholds_recounted": 10012,
+  "tet_reconciled": 800,
+  "unique_collision_runs": 38,
+  "source_inputs_unchanged": true
+}

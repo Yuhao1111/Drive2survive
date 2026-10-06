@@ -1,0 +1,50 @@
+[
+  {
+    "scope": "saved_common3s",
+    "model": "autovla",
+    "n": 100,
+    "mean_progress_m": 9.410169481203605
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "impromptu",
+    "n": 100,
+    "mean_progress_m": 8.326343765245428
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "orion",
+    "n": 100,
+    "mean_progress_m": 8.225967086914974
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "opendrivevla",
+    "n": 100,
+    "mean_progress_m": 8.741329781626694
+  },
+  {
+    "scope": "available_horizon",
+    "model": "autovla",
+    "n": 100,
+    "mean_progress_m": 13.472286871970473
+  },
+  {
+    "scope": "available_horizon",
+    "model": "impromptu",
+    "n": 100,
+    "mean_progress_m": 8.326343765245428
+  },
+  {
+    "scope": "available_horizon",
+    "model": "orion",
+    "n": 100,
+    "mean_progress_m": 10.785719164680499
+  },
+  {
+    "scope": "available_horizon",
+    "model": "opendrivevla",
+    "n": 100,
+    "mean_progress_m": 8.741329781626694
+  }
+]

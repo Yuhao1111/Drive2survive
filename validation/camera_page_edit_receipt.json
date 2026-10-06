@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "page_layout_css_unchanged": true,
+  "edited_html_scope": "Camera playback explanatory sentence only in index.html and videos.html; all other markup unchanged",
+  "edited_js_scope": "Two camera display descriptions only; controls and numerical code unchanged",
+  "copied_source_images": 558,
+  "unique_source_images": 546,
+  "no_new_statistics": true
+}

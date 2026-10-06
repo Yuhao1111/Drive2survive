@@ -1,0 +1,9 @@
+﻿scope,model,model_display,horizon_s,success,failed,not_run,valid_n,contact_scenes,contract
+saved_common3s,autovla,AutoVLA,3.0,100,0,0,100,2,PREVIOUSLY_VALIDATED
+saved_common3s,impromptu,Impromptu-VLA,3.0,100,0,0,100,6,PREVIOUSLY_VALIDATED
+saved_common3s,orion,ORION,3.0,100,0,0,100,3,AS-RETURNED DIAGNOSTIC / UNRESOLVED
+saved_common3s,opendrivevla,OpenDriveVLA,3.0,100,0,0,100,2,ARCHIVE_RECORDED_PASS
+available_horizon,autovla,AutoVLA,4.0,100,0,0,100,12,PREVIOUSLY_VALIDATED
+available_horizon,impromptu,Impromptu-VLA,3.0,100,0,0,100,6,PREVIOUSLY_VALIDATED
+available_horizon,orion,ORION,4.0,100,0,0,100,13,AS-RETURNED DIAGNOSTIC / UNRESOLVED
+available_horizon,opendrivevla,OpenDriveVLA,3.0,100,0,0,100,2,ARCHIVE_RECORDED_PASS

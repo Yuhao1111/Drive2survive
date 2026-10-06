@@ -1,0 +1,42 @@
+{
+  "title": "Drive2Survive | Four-model research evidence",
+  "models": [
+    "autovla",
+    "impromptu",
+    "orion",
+    "opendrivevla"
+  ],
+  "names": {
+    "autovla": "AutoVLA",
+    "impromptu": "Impromptu-VLA",
+    "orion": "ORION",
+    "opendrivevla": "OpenDriveVLA"
+  },
+  "units": {
+    "TTC": "s",
+    "TIT": "s²",
+    "DRAC": "m/s²",
+    "PET": "s",
+    "TET": "s"
+  },
+  "scopes": [
+    "saved_common3s",
+    "available_horizon"
+  ],
+  "windows": [
+    "FULL_ROLLOUT",
+    "PRE_FIRST_CONTACT",
+    "L1_NEXT1S",
+    "L1_TO_HORIZON",
+    "L2_NEXT1S",
+    "L2_TO_HORIZON"
+  ],
+  "metric_threshold_s": 3,
+  "integration": "RIGHT_ENDPOINT",
+  "bank": "Dev100",
+  "valid_each": 100,
+  "proposal_sha256": "0ef30eff1fbf4e48db75a012a0978848cb8a748bbc885566a49d0fa7ddd83048",
+  "default_scope": "saved_common3s",
+  "default_window": "PRE_FIRST_CONTACT",
+  "camera_note": "Three real recorded camera views play in physical-time alignment with the saved BEV. Available source images are approximately 2 Hz; each real exposure is held until the next capture. The recorded original driving viewpoint is not the simulated model viewpoint. This is not a claim of identical camera selection or preprocessing inside all four models."
+}

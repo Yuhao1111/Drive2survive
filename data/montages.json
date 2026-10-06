@@ -1,0 +1,62 @@
+[
+  {
+    "scope": "saved_common3s",
+    "model": "autovla",
+    "scenes": 2,
+    "mp4": "media/saved_common3s_autovla_all_contacts.mp4"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "impromptu",
+    "scenes": 6,
+    "mp4": "media/saved_common3s_impromptu_all_contacts.mp4"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "orion",
+    "scenes": 3,
+    "mp4": "media/saved_common3s_orion_all_contacts.mp4"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "opendrivevla",
+    "scenes": 2,
+    "mp4": "media/saved_common3s_opendrivevla_all_contacts.mp4"
+  },
+  {
+    "scope": "saved_common3s",
+    "model": "all",
+    "scenes": 13,
+    "mp4": "media/saved_common3s_all_all_contacts.mp4"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "autovla",
+    "scenes": 12,
+    "mp4": "media/available_horizon_autovla_all_contacts.mp4"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "impromptu",
+    "scenes": 6,
+    "mp4": "media/available_horizon_impromptu_all_contacts.mp4"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "orion",
+    "scenes": 13,
+    "mp4": "media/available_horizon_orion_all_contacts.mp4"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "opendrivevla",
+    "scenes": 2,
+    "mp4": "media/available_horizon_opendrivevla_all_contacts.mp4"
+  },
+  {
+    "scope": "available_horizon",
+    "model": "all",
+    "scenes": 33,
+    "mp4": "media/available_horizon_all_all_contacts.mp4"
+  }
+]

@@ -1,0 +1,289 @@
+﻿scope,model,window,metric,group,n,n_finite,n_censored,n_na,n_incomplete,n_zero,mean,median,min,max,run_source,scope_reuse_note
+saved_common3s,autovla,FULL_ROLLOUT,TIT,all,100,100,0,0,0,78,0.28172433598584,0.0,0.0,6.301892188928,,
+saved_common3s,autovla,FULL_ROLLOUT,TIT,contact,2,2,0,0,0,0,4.711222284893,4.711222284893,3.120552380858,6.301892188928,,
+saved_common3s,autovla,FULL_ROLLOUT,TIT,no_contact,98,98,0,0,0,78,0.1913264186612041,0.0,0.0,4.05912478777,,
+saved_common3s,impromptu,FULL_ROLLOUT,TIT,all,100,100,0,0,0,82,0.44529897279925995,0.0,0.0,7.257407271251,,
+saved_common3s,impromptu,FULL_ROLLOUT,TIT,contact,6,6,0,0,0,0,4.343456314767168,3.3595528773885,2.117709227483,7.257407271251,,
+saved_common3s,impromptu,FULL_ROLLOUT,TIT,no_contact,94,94,0,0,0,82,0.19648041905662766,0.0,0.0,4.493813252675,,
+saved_common3s,orion,FULL_ROLLOUT,TIT,all,100,100,0,0,0,75,0.45751580215782,0.0,0.0,8.309954213193,,
+saved_common3s,orion,FULL_ROLLOUT,TIT,contact,3,3,0,0,0,0,7.582860002616667,7.716902128368,6.721723666289,8.309954213193,,
+saved_common3s,orion,FULL_ROLLOUT,TIT,no_contact,97,97,0,0,0,75,0.2371443320405361,0.0,0.0,4.511838238113,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,TIT,all,100,100,0,0,0,83,0.22960437018052002,0.0,0.0,6.434068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TIT,contact,2,2,0,0,0,0,4.4918139568565,4.4918139568565,2.549559139381,6.434068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TIT,no_contact,98,98,0,0,0,83,0.14262050106468366,0.0,0.0,4.177930831065,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,FULL_ROLLOUT,TET,all,100,100,0,0,0,78,0.255,0.0,0.0,3.0,,
+saved_common3s,autovla,FULL_ROLLOUT,TET,contact,2,2,0,0,0,0,2.25,2.25,1.5,3.0,,
+saved_common3s,autovla,FULL_ROLLOUT,TET,no_contact,98,98,0,0,0,78,0.21428571428571427,0.0,0.0,3.0,,
+saved_common3s,impromptu,FULL_ROLLOUT,TET,all,100,100,0,0,0,82,0.27,0.0,0.0,3.0,,
+saved_common3s,impromptu,FULL_ROLLOUT,TET,contact,6,6,0,0,0,0,1.8,1.6,0.8,2.7,,
+saved_common3s,impromptu,FULL_ROLLOUT,TET,no_contact,94,94,0,0,0,82,0.1723404255319149,0.0,0.0,3.0,,
+saved_common3s,orion,FULL_ROLLOUT,TET,all,100,100,0,0,0,75,0.344,0.0,0.0,3.0,,
+saved_common3s,orion,FULL_ROLLOUT,TET,contact,3,3,0,0,0,0,2.966666666666667,3.0,2.9,3.0,,
+saved_common3s,orion,FULL_ROLLOUT,TET,no_contact,97,97,0,0,0,75,0.26288659793814434,0.0,0.0,2.8,,
+saved_common3s,opendrivevla,FULL_ROLLOUT,TET,all,100,100,0,0,0,83,0.201,0.0,0.0,3.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TET,contact,2,2,0,0,0,0,2.15,2.15,1.3,3.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,FULL_ROLLOUT,TET,no_contact,98,98,0,0,0,83,0.16122448979591839,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,78,0.26072433598584,0.0,0.0,5.101892188928,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TIT,contact,2,2,0,0,0,0,3.661222284893,3.661222284893,2.220552380858,5.101892188928,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TIT,no_contact,98,98,0,0,0,78,0.1913264186612041,0.0,0.0,4.05912478777,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,82,0.31956750751648,0.0,0.0,4.493813252675,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TIT,contact,6,6,0,0,0,0,2.2479318933875,1.9576766781994999,1.635423021666,3.135127794675,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TIT,no_contact,94,94,0,0,0,82,0.19648041905662766,0.0,0.0,4.493813252675,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,75,0.34051580215781,0.0,0.0,4.621723666289,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TIT,contact,3,3,0,0,0,0,3.6828600026163336,4.109954213193,2.316902128367,4.621723666289,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TIT,no_contact,97,97,0,0,0,75,0.2371443320405361,0.0,0.0,4.511838238113,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,83,0.21160437018052003,0.0,0.0,4.934068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TIT,contact,2,2,0,0,0,0,3.5918139568565,3.5918139568565,2.249559139381,4.934068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TIT,no_contact,98,98,0,0,0,83,0.14262050106468366,0.0,0.0,4.177930831065,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,78,0.248,0.0,0.0,3.0,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TET,contact,2,2,0,0,0,0,1.9,1.9,1.2,2.6,,
+saved_common3s,autovla,PRE_FIRST_CONTACT,TET,no_contact,98,98,0,0,0,78,0.21428571428571427,0.0,0.0,3.0,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,82,0.228,0.0,0.0,3.0,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TET,contact,6,6,0,0,0,0,1.0999999999999999,1.0,0.7,1.6,,
+saved_common3s,impromptu,PRE_FIRST_CONTACT,TET,no_contact,94,94,0,0,0,82,0.1723404255319149,0.0,0.0,3.0,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,75,0.305,0.0,0.0,2.8,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TET,contact,3,3,0,0,0,0,1.6666666666666667,1.6,1.1,2.3,,
+saved_common3s,orion,PRE_FIRST_CONTACT,TET,no_contact,97,97,0,0,0,75,0.26288659793814434,0.0,0.0,2.8,,
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,83,0.19500000000000003,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TET,contact,2,2,0,0,0,0,1.85,1.85,1.2,2.5,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,PRE_FIRST_CONTACT,TET,no_contact,98,98,0,0,0,83,0.16122448979591839,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,TIT,all,100,100,0,0,0,95,0.034002683569060006,0.0,0.0,1.702451228793,,
+saved_common3s,autovla,L1_NEXT1S,TIT,contact,0,0,0,0,0,0,,,,,,
+saved_common3s,autovla,L1_NEXT1S,TIT,no_contact,100,100,0,0,0,95,0.034002683569060006,0.0,0.0,1.702451228793,,
+saved_common3s,impromptu,L1_NEXT1S,TIT,all,100,100,0,0,0,91,0.06436746545977,0.0,0.0,1.936424788615,,
+saved_common3s,impromptu,L1_NEXT1S,TIT,contact,2,2,0,0,0,0,1.2516991437455,1.2516991437455,1.200247392619,1.303150894872,,
+saved_common3s,impromptu,L1_NEXT1S,TIT,no_contact,98,98,0,0,0,91,0.0401362067192449,0.0,0.0,1.936424788615,,
+saved_common3s,orion,L1_NEXT1S,TIT,all,100,100,0,0,0,90,0.07616097800618,0.0,0.0,2.445460874262,,
+saved_common3s,orion,L1_NEXT1S,TIT,contact,2,2,0,0,0,0,2.0876670746675,2.0876670746675,1.729873275073,2.445460874262,,
+saved_common3s,orion,L1_NEXT1S,TIT,no_contact,98,98,0,0,0,90,0.035109833176357144,0.0,0.0,1.76261686777,,
+saved_common3s,opendrivevla,L1_NEXT1S,TIT,all,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TIT,contact,0,0,0,0,0,0,,,,,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TIT,no_contact,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_NEXT1S,TET,all,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+saved_common3s,autovla,L1_NEXT1S,TET,contact,0,0,0,0,0,0,,,,,,
+saved_common3s,autovla,L1_NEXT1S,TET,no_contact,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+saved_common3s,impromptu,L1_NEXT1S,TET,all,100,100,0,0,0,91,0.057,0.0,0.0,1.0,,
+saved_common3s,impromptu,L1_NEXT1S,TET,contact,2,2,0,0,0,0,0.7,0.7,0.7,0.7,,
+saved_common3s,impromptu,L1_NEXT1S,TET,no_contact,98,98,0,0,0,91,0.04387755102040817,0.0,0.0,1.0,,
+saved_common3s,orion,L1_NEXT1S,TET,all,100,100,0,0,0,90,0.056999999999999995,0.0,0.0,1.0,,
+saved_common3s,orion,L1_NEXT1S,TET,contact,2,2,0,0,0,0,0.95,0.95,0.9,1.0,,
+saved_common3s,orion,L1_NEXT1S,TET,no_contact,98,98,0,0,0,90,0.03877551020408163,0.0,0.0,1.0,,
+saved_common3s,opendrivevla,L1_NEXT1S,TET,all,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TET,contact,0,0,0,0,0,0,,,,,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_NEXT1S,TET,no_contact,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,TIT,all,100,100,0,0,0,95,0.034002683569060006,0.0,0.0,1.702451228793,,
+saved_common3s,autovla,L1_TO_HORIZON,TIT,contact,2,2,0,0,0,1,0.7070491049085,0.7070491049085,0.0,1.414098209817,,
+saved_common3s,autovla,L1_TO_HORIZON,TIT,no_contact,98,98,0,0,0,94,0.020267042317234696,0.0,0.0,1.702451228793,,
+saved_common3s,impromptu,L1_TO_HORIZON,TIT,all,100,100,0,0,0,91,0.06436746545977,0.0,0.0,1.936424788615,,
+saved_common3s,impromptu,L1_TO_HORIZON,TIT,contact,6,6,0,0,0,4,0.4172330479151667,0.0,0.0,1.303150894872,,
+saved_common3s,impromptu,L1_TO_HORIZON,TIT,no_contact,94,94,0,0,0,87,0.041844130409425535,0.0,0.0,1.936424788615,,
+saved_common3s,orion,L1_TO_HORIZON,TIT,all,100,100,0,0,0,90,0.07616097800618,0.0,0.0,2.445460874262,,
+saved_common3s,orion,L1_TO_HORIZON,TIT,contact,3,3,0,0,0,0,1.898708887445,1.729873275073,1.520792513,2.445460874262,,
+saved_common3s,orion,L1_TO_HORIZON,TIT,no_contact,97,97,0,0,0,90,0.019793516889515465,0.0,0.0,1.76261686777,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,TIT,all,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TIT,contact,2,2,0,0,0,1,0.72593007236,0.72593007236,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TIT,no_contact,98,98,0,0,0,92,0.017924236276704083,0.0,0.0,1.337523464066,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L1_TO_HORIZON,TET,all,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+saved_common3s,autovla,L1_TO_HORIZON,TET,contact,2,2,0,0,0,1,0.5,0.5,0.0,1.0,,
+saved_common3s,autovla,L1_TO_HORIZON,TET,no_contact,98,98,0,0,0,94,0.02857142857142857,0.0,0.0,1.0,,
+saved_common3s,impromptu,L1_TO_HORIZON,TET,all,100,100,0,0,0,91,0.057,0.0,0.0,1.0,,
+saved_common3s,impromptu,L1_TO_HORIZON,TET,contact,6,6,0,0,0,4,0.2333333333333333,0.0,0.0,0.7,,
+saved_common3s,impromptu,L1_TO_HORIZON,TET,no_contact,94,94,0,0,0,87,0.045744680851063826,0.0,0.0,1.0,,
+saved_common3s,orion,L1_TO_HORIZON,TET,all,100,100,0,0,0,90,0.056999999999999995,0.0,0.0,1.0,,
+saved_common3s,orion,L1_TO_HORIZON,TET,contact,3,3,0,0,0,0,0.9666666666666667,1.0,0.9,1.0,,
+saved_common3s,orion,L1_TO_HORIZON,TET,no_contact,97,97,0,0,0,90,0.028865979381443297,0.0,0.0,0.8,,
+saved_common3s,opendrivevla,L1_TO_HORIZON,TET,all,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TET,contact,2,2,0,0,0,1,0.5,0.5,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L1_TO_HORIZON,TET,no_contact,98,98,0,0,0,92,0.0336734693877551,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,TIT,all,100,100,0,0,0,87,0.1005813437386,0.0,0.0,3.490722289051,,
+saved_common3s,autovla,L2_NEXT1S,TIT,contact,2,2,0,0,0,0,1.9860516556445,1.9860516556445,0.481381022238,3.490722289051,,
+saved_common3s,autovla,L2_NEXT1S,TIT,no_contact,98,98,0,0,0,87,0.062102357781336735,0.0,0.0,3.043309816793,,
+saved_common3s,impromptu,L2_NEXT1S,TIT,all,98,98,0,0,0,84,0.12573618452914287,0.0,0.0,3.116765388635,,
+saved_common3s,impromptu,L2_NEXT1S,TIT,contact,4,4,0,0,0,1,0.5112204078365,0.5933838604795,0.0,0.858113910387,,
+saved_common3s,impromptu,L2_NEXT1S,TIT,no_contact,94,94,0,0,0,83,0.10933260055861702,0.0,0.0,3.116765388635,,
+saved_common3s,orion,L2_NEXT1S,TIT,all,98,98,0,0,0,78,0.09831631400994897,0.0,0.0,3.779047995819,,
+saved_common3s,orion,L2_NEXT1S,TIT,contact,1,1,0,0,0,0,3.779047995819,3.779047995819,3.779047995819,3.779047995819,,
+saved_common3s,orion,L2_NEXT1S,TIT,no_contact,97,97,0,0,0,78,0.06037062656861856,0.0,0.0,3.292905407142,,
+saved_common3s,opendrivevla,L2_NEXT1S,TIT,all,100,100,0,0,0,89,0.09020301606699001,0.0,0.0,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TIT,contact,2,2,0,0,0,0,1.8825059363480001,1.8825059363480001,0.207691773686,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TIT,no_contact,98,98,0,0,0,89,0.053625405449010205,0.0,0.0,2.803021283196,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_NEXT1S,TET,all,100,100,0,0,0,87,0.11800000000000001,0.0,0.0,2.0,,
+saved_common3s,autovla,L2_NEXT1S,TET,contact,2,2,0,0,0,0,1.25,1.25,0.5,2.0,,
+saved_common3s,autovla,L2_NEXT1S,TET,no_contact,98,98,0,0,0,87,0.09489795918367348,0.0,0.0,2.0,,
+saved_common3s,impromptu,L2_NEXT1S,TET,all,98,98,0,0,0,84,0.13163265306122449,0.0,0.0,2.0,,
+saved_common3s,impromptu,L2_NEXT1S,TET,contact,4,4,0,0,0,1,0.4,0.45,0.0,0.7,,
+saved_common3s,impromptu,L2_NEXT1S,TET,no_contact,94,94,0,0,0,83,0.12021276595744682,0.0,0.0,2.0,,
+saved_common3s,orion,L2_NEXT1S,TET,all,98,98,0,0,0,78,0.13163265306122449,0.0,0.0,2.0,,
+saved_common3s,orion,L2_NEXT1S,TET,contact,1,1,0,0,0,0,2.0,2.0,2.0,2.0,,
+saved_common3s,orion,L2_NEXT1S,TET,no_contact,97,97,0,0,0,78,0.11237113402061856,0.0,0.0,1.8,,
+saved_common3s,opendrivevla,L2_NEXT1S,TET,all,100,100,0,0,0,89,0.10300000000000001,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TET,contact,2,2,0,0,0,0,1.15,1.15,0.3,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_NEXT1S,TET,no_contact,98,98,0,0,0,89,0.08163265306122448,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,TIT,all,100,100,0,0,0,87,0.1005813437386,0.0,0.0,3.490722289051,,
+saved_common3s,autovla,L2_TO_HORIZON,TIT,contact,2,2,0,0,0,0,1.9860516556445,1.9860516556445,0.481381022238,3.490722289051,,
+saved_common3s,autovla,L2_TO_HORIZON,TIT,no_contact,98,98,0,0,0,87,0.062102357781336735,0.0,0.0,3.043309816793,,
+saved_common3s,impromptu,L2_TO_HORIZON,TIT,all,98,98,0,0,0,84,0.12573618452914287,0.0,0.0,3.116765388635,,
+saved_common3s,impromptu,L2_TO_HORIZON,TIT,contact,4,4,0,0,0,1,0.5112204078365,0.5933838604795,0.0,0.858113910387,,
+saved_common3s,impromptu,L2_TO_HORIZON,TIT,no_contact,94,94,0,0,0,83,0.10933260055861702,0.0,0.0,3.116765388635,,
+saved_common3s,orion,L2_TO_HORIZON,TIT,all,98,98,0,0,0,78,0.09831631400994897,0.0,0.0,3.779047995819,,
+saved_common3s,orion,L2_TO_HORIZON,TIT,contact,1,1,0,0,0,0,3.779047995819,3.779047995819,3.779047995819,3.779047995819,,
+saved_common3s,orion,L2_TO_HORIZON,TIT,no_contact,97,97,0,0,0,78,0.06037062656861856,0.0,0.0,3.292905407142,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,TIT,all,100,100,0,0,0,89,0.09020301606699001,0.0,0.0,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TIT,contact,2,2,0,0,0,0,1.8825059363480001,1.8825059363480001,0.207691773686,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TIT,no_contact,98,98,0,0,0,89,0.053625405449010205,0.0,0.0,2.803021283196,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,autovla,L2_TO_HORIZON,TET,all,100,100,0,0,0,87,0.11800000000000001,0.0,0.0,2.0,,
+saved_common3s,autovla,L2_TO_HORIZON,TET,contact,2,2,0,0,0,0,1.25,1.25,0.5,2.0,,
+saved_common3s,autovla,L2_TO_HORIZON,TET,no_contact,98,98,0,0,0,87,0.09489795918367348,0.0,0.0,2.0,,
+saved_common3s,impromptu,L2_TO_HORIZON,TET,all,98,98,0,0,0,84,0.13163265306122449,0.0,0.0,2.0,,
+saved_common3s,impromptu,L2_TO_HORIZON,TET,contact,4,4,0,0,0,1,0.4,0.45,0.0,0.7,,
+saved_common3s,impromptu,L2_TO_HORIZON,TET,no_contact,94,94,0,0,0,83,0.12021276595744682,0.0,0.0,2.0,,
+saved_common3s,orion,L2_TO_HORIZON,TET,all,98,98,0,0,0,78,0.13163265306122449,0.0,0.0,2.0,,
+saved_common3s,orion,L2_TO_HORIZON,TET,contact,1,1,0,0,0,0,2.0,2.0,2.0,2.0,,
+saved_common3s,orion,L2_TO_HORIZON,TET,no_contact,97,97,0,0,0,78,0.11237113402061856,0.0,0.0,1.8,,
+saved_common3s,opendrivevla,L2_TO_HORIZON,TET,all,100,100,0,0,0,89,0.10300000000000001,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TET,contact,2,2,0,0,0,0,1.15,1.15,0.3,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+saved_common3s,opendrivevla,L2_TO_HORIZON,TET,no_contact,98,98,0,0,0,89,0.08163265306122448,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,TIT,all,100,100,0,0,0,66,0.7845546218129701,0.0,0.0,9.300820499262,,
+available_horizon,autovla,FULL_ROLLOUT,TIT,contact,12,12,0,0,0,0,4.7455129410960835,3.881490528008,2.267185959379,9.300820499262,,
+available_horizon,autovla,FULL_ROLLOUT,TIT,no_contact,88,88,0,0,0,66,0.2444239419107273,0.0,0.0,4.194700918214,,
+available_horizon,impromptu,FULL_ROLLOUT,TIT,all,100,100,0,0,0,82,0.44529897279925995,0.0,0.0,7.257407271251,,
+available_horizon,impromptu,FULL_ROLLOUT,TIT,contact,6,6,0,0,0,0,4.343456314767168,3.3595528773885,2.117709227483,7.257407271251,,
+available_horizon,impromptu,FULL_ROLLOUT,TIT,no_contact,94,94,0,0,0,82,0.19648041905662766,0.0,0.0,4.493813252675,,
+available_horizon,orion,FULL_ROLLOUT,TIT,all,100,100,0,0,0,70,0.9827764975905399,0.0,0.0,11.309708555713,,
+available_horizon,orion,FULL_ROLLOUT,TIT,contact,13,13,0,0,0,0,6.046983314771078,4.55423733214,3.795571525229,11.309708555713,,
+available_horizon,orion,FULL_ROLLOUT,TIT,no_contact,87,87,0,0,0,70,0.22605593870149426,0.0,0.0,5.17311879494,,
+available_horizon,opendrivevla,FULL_ROLLOUT,TIT,all,100,100,0,0,0,83,0.22960437018052002,0.0,0.0,6.434068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TIT,contact,2,2,0,0,0,0,4.4918139568565,4.4918139568565,2.549559139381,6.434068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TIT,no_contact,98,98,0,0,0,83,0.14262050106468366,0.0,0.0,4.177930831065,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,FULL_ROLLOUT,TET,all,100,100,0,0,0,66,0.506,0.0,0.0,4.0,,
+available_horizon,autovla,FULL_ROLLOUT,TET,contact,12,12,0,0,0,0,2.158333333333333,1.8,1.1,4.0,,
+available_horizon,autovla,FULL_ROLLOUT,TET,no_contact,88,88,0,0,0,66,0.28068181818181814,0.0,0.0,3.5,,
+available_horizon,impromptu,FULL_ROLLOUT,TET,all,100,100,0,0,0,82,0.27,0.0,0.0,3.0,,
+available_horizon,impromptu,FULL_ROLLOUT,TET,contact,6,6,0,0,0,0,1.8,1.6,0.8,2.7,,
+available_horizon,impromptu,FULL_ROLLOUT,TET,no_contact,94,94,0,0,0,82,0.1723404255319149,0.0,0.0,3.0,,
+available_horizon,orion,FULL_ROLLOUT,TET,all,100,100,0,0,0,70,0.584,0.0,0.0,4.0,,
+available_horizon,orion,FULL_ROLLOUT,TET,contact,13,13,0,0,0,0,2.6999999999999997,2.3,1.9,4.0,,
+available_horizon,orion,FULL_ROLLOUT,TET,no_contact,87,87,0,0,0,70,0.26781609195402295,0.0,0.0,3.8,,
+available_horizon,opendrivevla,FULL_ROLLOUT,TET,all,100,100,0,0,0,83,0.201,0.0,0.0,3.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TET,contact,2,2,0,0,0,0,2.15,2.15,1.3,3.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,FULL_ROLLOUT,TET,no_contact,98,98,0,0,0,83,0.16122448979591839,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,66,0.56855462181297,0.0,0.0,5.100820499262,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TIT,contact,12,12,0,0,0,0,2.9455129410960836,2.9954187273735,1.067185959379,5.100820499262,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TIT,no_contact,88,88,0,0,0,66,0.2444239419107273,0.0,0.0,4.194700918214,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,82,0.31956750751648,0.0,0.0,4.493813252675,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TIT,contact,6,6,0,0,0,0,2.2479318933875,1.9576766781994999,1.635423021666,3.135127794675,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TIT,no_contact,94,94,0,0,0,82,0.19648041905662766,0.0,0.0,4.493813252675,,
+available_horizon,orion,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,70,0.6437764975905399,0.0,0.0,5.17311879494,,
+available_horizon,orion,PRE_FIRST_CONTACT,TIT,contact,13,13,0,0,0,0,3.4392910070787694,3.35423733214,2.316936175457,4.620816900442,,
+available_horizon,orion,PRE_FIRST_CONTACT,TIT,no_contact,87,87,0,0,0,70,0.22605593870149426,0.0,0.0,5.17311879494,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TIT,all,100,100,0,0,0,83,0.21160437018052003,0.0,0.0,4.934068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TIT,contact,2,2,0,0,0,0,3.5918139568565,3.5918139568565,2.249559139381,4.934068774332,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TIT,no_contact,98,98,0,0,0,83,0.14262050106468366,0.0,0.0,4.177930831065,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,66,0.434,0.0,0.0,3.5,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TET,contact,12,12,0,0,0,0,1.5583333333333333,1.6,0.7,2.6,,
+available_horizon,autovla,PRE_FIRST_CONTACT,TET,no_contact,88,88,0,0,0,66,0.28068181818181814,0.0,0.0,3.5,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,82,0.228,0.0,0.0,3.0,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TET,contact,6,6,0,0,0,0,1.0999999999999999,1.0,0.7,1.6,,
+available_horizon,impromptu,PRE_FIRST_CONTACT,TET,no_contact,94,94,0,0,0,82,0.1723404255319149,0.0,0.0,3.0,,
+available_horizon,orion,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,70,0.4709999999999999,0.0,0.0,3.8,,
+available_horizon,orion,PRE_FIRST_CONTACT,TET,contact,13,13,0,0,0,0,1.830769230769231,1.9,1.1,2.3,,
+available_horizon,orion,PRE_FIRST_CONTACT,TET,no_contact,87,87,0,0,0,70,0.26781609195402295,0.0,0.0,3.8,,
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TET,all,100,100,0,0,0,83,0.19500000000000003,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TET,contact,2,2,0,0,0,0,1.85,1.85,1.2,2.5,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,PRE_FIRST_CONTACT,TET,no_contact,98,98,0,0,0,83,0.16122448979591839,0.0,0.0,2.8,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,TIT,all,100,100,0,0,0,95,0.03400270461433,0.0,0.0,1.702451275074,,
+available_horizon,autovla,L1_NEXT1S,TIT,contact,0,0,0,0,0,0,,,,,,
+available_horizon,autovla,L1_NEXT1S,TIT,no_contact,100,100,0,0,0,95,0.03400270461433,0.0,0.0,1.702451275074,,
+available_horizon,impromptu,L1_NEXT1S,TIT,all,100,100,0,0,0,91,0.06436746545977,0.0,0.0,1.936424788615,,
+available_horizon,impromptu,L1_NEXT1S,TIT,contact,2,2,0,0,0,0,1.2516991437455,1.2516991437455,1.200247392619,1.303150894872,,
+available_horizon,impromptu,L1_NEXT1S,TIT,no_contact,98,98,0,0,0,91,0.0401362067192449,0.0,0.0,1.936424788615,,
+available_horizon,orion,L1_NEXT1S,TIT,all,100,100,0,0,0,90,0.07713065718375,0.0,0.0,2.445416985288,,
+available_horizon,orion,L1_NEXT1S,TIT,contact,2,2,0,0,0,0,2.087656602758,2.087656602758,1.729896220228,2.445416985288,,
+available_horizon,orion,L1_NEXT1S,TIT,no_contact,98,98,0,0,0,90,0.036099515437336735,0.0,0.0,1.762630966737,,
+available_horizon,opendrivevla,L1_NEXT1S,TIT,all,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TIT,contact,0,0,0,0,0,0,,,,,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TIT,no_contact,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_NEXT1S,TET,all,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+available_horizon,autovla,L1_NEXT1S,TET,contact,0,0,0,0,0,0,,,,,,
+available_horizon,autovla,L1_NEXT1S,TET,no_contact,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+available_horizon,impromptu,L1_NEXT1S,TET,all,100,100,0,0,0,91,0.057,0.0,0.0,1.0,,
+available_horizon,impromptu,L1_NEXT1S,TET,contact,2,2,0,0,0,0,0.7,0.7,0.7,0.7,,
+available_horizon,impromptu,L1_NEXT1S,TET,no_contact,98,98,0,0,0,91,0.04387755102040817,0.0,0.0,1.0,,
+available_horizon,orion,L1_NEXT1S,TET,all,100,100,0,0,0,90,0.059000000000000004,0.0,0.0,1.0,,
+available_horizon,orion,L1_NEXT1S,TET,contact,2,2,0,0,0,0,0.95,0.95,0.9,1.0,,
+available_horizon,orion,L1_NEXT1S,TET,no_contact,98,98,0,0,0,90,0.04081632653061224,0.0,0.0,1.0,,
+available_horizon,opendrivevla,L1_NEXT1S,TET,all,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TET,contact,0,0,0,0,0,0,,,,,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_NEXT1S,TET,no_contact,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,TIT,all,100,100,0,0,0,95,0.03400270461433,0.0,0.0,1.702451275074,,
+available_horizon,autovla,L1_TO_HORIZON,TIT,contact,12,12,0,0,0,11,0.11784169455191668,0.0,0.0,1.414100334623,,
+available_horizon,autovla,L1_TO_HORIZON,TIT,no_contact,88,88,0,0,0,84,0.022570115077386363,0.0,0.0,1.702451275074,,
+available_horizon,impromptu,L1_TO_HORIZON,TIT,all,100,100,0,0,0,91,0.06436746545977,0.0,0.0,1.936424788615,,
+available_horizon,impromptu,L1_TO_HORIZON,TIT,contact,6,6,0,0,0,4,0.4172330479151667,0.0,0.0,1.303150894872,,
+available_horizon,impromptu,L1_TO_HORIZON,TIT,no_contact,94,94,0,0,0,87,0.041844130409425535,0.0,0.0,1.936424788615,,
+available_horizon,orion,L1_TO_HORIZON,TIT,all,100,100,0,0,0,90,0.07713065718375,0.0,0.0,2.445416985288,,
+available_horizon,orion,L1_TO_HORIZON,TIT,contact,13,13,0,0,0,9,0.44601964087246154,0.0,0.0,2.445416985288,,
+available_horizon,orion,L1_TO_HORIZON,TIT,no_contact,87,87,0,0,0,81,0.022009314793482757,0.0,0.0,1.762630966737,,
+available_horizon,opendrivevla,L1_TO_HORIZON,TIT,all,100,100,0,0,0,93,0.03208435299837,0.0,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TIT,contact,2,2,0,0,0,1,0.72593007236,0.72593007236,0.0,1.45186014472,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TIT,no_contact,98,98,0,0,0,92,0.017924236276704083,0.0,0.0,1.337523464066,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L1_TO_HORIZON,TET,all,100,100,0,0,0,95,0.038,0.0,0.0,1.0,,
+available_horizon,autovla,L1_TO_HORIZON,TET,contact,12,12,0,0,0,11,0.08333333333333333,0.0,0.0,1.0,,
+available_horizon,autovla,L1_TO_HORIZON,TET,no_contact,88,88,0,0,0,84,0.031818181818181815,0.0,0.0,1.0,,
+available_horizon,impromptu,L1_TO_HORIZON,TET,all,100,100,0,0,0,91,0.057,0.0,0.0,1.0,,
+available_horizon,impromptu,L1_TO_HORIZON,TET,contact,6,6,0,0,0,4,0.2333333333333333,0.0,0.0,0.7,,
+available_horizon,impromptu,L1_TO_HORIZON,TET,no_contact,94,94,0,0,0,87,0.045744680851063826,0.0,0.0,1.0,,
+available_horizon,orion,L1_TO_HORIZON,TET,all,100,100,0,0,0,90,0.059000000000000004,0.0,0.0,1.0,,
+available_horizon,orion,L1_TO_HORIZON,TET,contact,13,13,0,0,0,9,0.24615384615384617,0.0,0.0,1.0,,
+available_horizon,orion,L1_TO_HORIZON,TET,no_contact,87,87,0,0,0,81,0.031034482758620693,0.0,0.0,0.8,,
+available_horizon,opendrivevla,L1_TO_HORIZON,TET,all,100,100,0,0,0,93,0.043,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TET,contact,2,2,0,0,0,1,0.5,0.5,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L1_TO_HORIZON,TET,no_contact,98,98,0,0,0,92,0.0336734693877551,0.0,0.0,1.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,TIT,all,100,100,0,0,0,88,0.09956471817344001,0.0,0.0,3.490753687321,,
+available_horizon,autovla,L2_NEXT1S,TIT,contact,3,3,0,0,0,0,1.5677508728186667,0.730666300603,0.481832630532,3.490753687321,,
+available_horizon,autovla,L2_NEXT1S,TIT,no_contact,97,97,0,0,0,88,0.05415689895760826,0.0,0.0,3.043126246957,,
+available_horizon,impromptu,L2_NEXT1S,TIT,all,98,98,0,0,0,84,0.12573618452914287,0.0,0.0,3.116765388635,,
+available_horizon,impromptu,L2_NEXT1S,TIT,contact,4,4,0,0,0,1,0.5112204078365,0.5933838604795,0.0,0.858113910387,,
+available_horizon,impromptu,L2_NEXT1S,TIT,no_contact,94,94,0,0,0,83,0.10933260055861702,0.0,0.0,3.116765388635,,
+available_horizon,orion,L2_NEXT1S,TIT,all,98,98,0,0,0,78,0.11297139245607142,0.0,0.0,3.778910605789,,
+available_horizon,orion,L2_NEXT1S,TIT,contact,1,1,0,0,0,0,3.778910605789,3.778910605789,3.778910605789,3.778910605789,,
+available_horizon,orion,L2_NEXT1S,TIT,no_contact,97,97,0,0,0,78,0.07517820468975257,0.0,0.0,3.292225979911,,
+available_horizon,opendrivevla,L2_NEXT1S,TIT,all,100,100,0,0,0,89,0.09020301606699001,0.0,0.0,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TIT,contact,2,2,0,0,0,0,1.8825059363480001,1.8825059363480001,0.207691773686,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TIT,no_contact,98,98,0,0,0,89,0.053625405449010205,0.0,0.0,2.803021283196,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_NEXT1S,TET,all,100,100,0,0,0,88,0.11399999999999999,0.0,0.0,2.0,,
+available_horizon,autovla,L2_NEXT1S,TET,contact,3,3,0,0,0,0,1.0666666666666667,0.7,0.5,2.0,,
+available_horizon,autovla,L2_NEXT1S,TET,no_contact,97,97,0,0,0,88,0.08453608247422681,0.0,0.0,2.0,,
+available_horizon,impromptu,L2_NEXT1S,TET,all,98,98,0,0,0,84,0.13163265306122449,0.0,0.0,2.0,,
+available_horizon,impromptu,L2_NEXT1S,TET,contact,4,4,0,0,0,1,0.4,0.45,0.0,0.7,,
+available_horizon,impromptu,L2_NEXT1S,TET,no_contact,94,94,0,0,0,83,0.12021276595744682,0.0,0.0,2.0,,
+available_horizon,orion,L2_NEXT1S,TET,all,98,98,0,0,0,78,0.1418367346938776,0.0,0.0,2.0,,
+available_horizon,orion,L2_NEXT1S,TET,contact,1,1,0,0,0,0,2.0,2.0,2.0,2.0,,
+available_horizon,orion,L2_NEXT1S,TET,no_contact,97,97,0,0,0,78,0.12268041237113404,0.0,0.0,1.8,,
+available_horizon,opendrivevla,L2_NEXT1S,TET,all,100,100,0,0,0,89,0.10300000000000001,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TET,contact,2,2,0,0,0,0,1.15,1.15,0.3,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_NEXT1S,TET,no_contact,98,98,0,0,0,89,0.08163265306122448,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,TIT,all,100,100,0,0,0,88,0.09956471817344001,0.0,0.0,3.490753687321,,
+available_horizon,autovla,L2_TO_HORIZON,TIT,contact,12,12,0,0,0,7,0.46049065608166667,0.0,0.0,3.490753687321,,
+available_horizon,autovla,L2_TO_HORIZON,TIT,no_contact,88,88,0,0,0,81,0.05034754482231819,0.0,0.0,3.043126246957,,
+available_horizon,impromptu,L2_TO_HORIZON,TIT,all,98,98,0,0,0,84,0.12573618452914287,0.0,0.0,3.116765388635,,
+available_horizon,impromptu,L2_TO_HORIZON,TIT,contact,4,4,0,0,0,1,0.5112204078365,0.5933838604795,0.0,0.858113910387,,
+available_horizon,impromptu,L2_TO_HORIZON,TIT,no_contact,94,94,0,0,0,83,0.10933260055861702,0.0,0.0,3.116765388635,,
+available_horizon,orion,L2_TO_HORIZON,TIT,all,98,98,0,0,0,78,0.11297139245607142,0.0,0.0,3.778910605789,,
+available_horizon,orion,L2_TO_HORIZON,TIT,contact,11,11,0,0,0,1,0.5446142370107272,0.072050722328,0.0,3.778910605789,,
+available_horizon,orion,L2_TO_HORIZON,TIT,no_contact,87,87,0,0,0,77,0.05839586038594252,0.0,0.0,3.292225979911,,
+available_horizon,opendrivevla,L2_TO_HORIZON,TIT,all,100,100,0,0,0,89,0.09020301606699001,0.0,0.0,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TIT,contact,2,2,0,0,0,0,1.8825059363480001,1.8825059363480001,0.207691773686,3.55732009901,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TIT,no_contact,98,98,0,0,0,89,0.053625405449010205,0.0,0.0,2.803021283196,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,autovla,L2_TO_HORIZON,TET,all,100,100,0,0,0,88,0.11399999999999999,0.0,0.0,2.0,,
+available_horizon,autovla,L2_TO_HORIZON,TET,contact,12,12,0,0,0,7,0.3416666666666666,0.0,0.0,2.0,,
+available_horizon,autovla,L2_TO_HORIZON,TET,no_contact,88,88,0,0,0,81,0.08295454545454545,0.0,0.0,2.0,,
+available_horizon,impromptu,L2_TO_HORIZON,TET,all,98,98,0,0,0,84,0.13163265306122449,0.0,0.0,2.0,,
+available_horizon,impromptu,L2_TO_HORIZON,TET,contact,4,4,0,0,0,1,0.4,0.45,0.0,0.7,,
+available_horizon,impromptu,L2_TO_HORIZON,TET,no_contact,94,94,0,0,0,83,0.12021276595744682,0.0,0.0,2.0,,
+available_horizon,orion,L2_TO_HORIZON,TET,all,98,98,0,0,0,78,0.1418367346938776,0.0,0.0,2.0,,
+available_horizon,orion,L2_TO_HORIZON,TET,contact,11,11,0,0,0,1,0.4818181818181818,0.2,0.0,2.0,,
+available_horizon,orion,L2_TO_HORIZON,TET,no_contact,87,87,0,0,0,77,0.09885057471264368,0.0,0.0,1.8,,
+available_horizon,opendrivevla,L2_TO_HORIZON,TET,all,100,100,0,0,0,89,0.10300000000000001,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TET,contact,2,2,0,0,0,0,1.15,1.15,0.3,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."
+available_horizon,opendrivevla,L2_TO_HORIZON,TET,no_contact,98,98,0,0,0,89,0.08163265306122448,0.0,0.0,2.0,dev100_v3_run013,"The available-horizon and common3s views refer to the same OpenDriveVLA 3 s execution, not independent runs."

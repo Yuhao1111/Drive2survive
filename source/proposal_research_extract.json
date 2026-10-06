@@ -1,0 +1,74 @@
+[
+  {
+    "paragraph_index": 0,
+    "text": "Drive2Survive: Benchmarking Vision-Language-Action Autonomous Driving Models in Long-Tail Scenarios with Pre-Crash Precursor Metrics"
+  },
+  {
+    "paragraph_index": 1,
+    "text": "A. Scientific/Technical Goal"
+  },
+  {
+    "paragraph_index": 2,
+    "text": "Vision-language-action (VLA) models have become a trending approach to end-to-end driving [1], [2]. Unlike most robotics settings, autonomous driving is safety-critical: a single planning failure can be irreversible. Current VLA planning benchmarks have largely saturated ordinary urban driving [3] and grade models on average-case accuracy — displacement measures such as ADE and FDE — which reward typical behavior while the rare, long-tail interactions that produce real crashes stay underrepresented and under-weighted. Safety is also usually reported as a collision count, which scores a planner that keeps situations from ever turning dangerous the same as one that repeatedly creates its own near-misses and escapes them by chance. We are building an open protocol that evaluates VLA planners on long-tail scenarios and measures the pre-crash risk they accumulate, not only whether they crash. Scenarios come from the splits released with NAVSIM [4], built on nuPlan and OpenScene data [3], keeping our numbers comparable with published leaderboards. All planners run through one trajectory interface, and metrics are computed on the executed rollout."
+  },
+  {
+    "paragraph_index": 5,
+    "text": "Models under evaluation"
+  },
+  {
+    "paragraph_index": 6,
+    "text": "We will evaluate four open-sourced state-of-the-art VLA planners, alongside the non-VLA agents shipped with NAVSIM — Transfuser, an ego-status MLP, constant velocity, and the privileged human agent. These four are the starting set for the Start-Up phase; the full proposal will extend the evaluation to a broader range of VLA planners."
+  },
+  {
+    "paragraph_index": 7,
+    "text": "AutoVLA [1] — unified autoregressive VLA with discrete action tokens, fast and slow reasoning modes, and reinforcement fine-tuning."
+  },
+  {
+    "paragraph_index": 8,
+    "text": "OpenDriveVLA [9] — open LLM backbone with 2D and 3D instance-aware visual tokens."
+  },
+  {
+    "paragraph_index": 9,
+    "text": "ORION [10] — QT-Former history aggregation with an LLM reasoner and generative planner, built for closed-loop rather than open-loop imitation."
+  },
+  {
+    "paragraph_index": 10,
+    "text": "Impromptu VLA [8] — open weights and open data, built around unstructured corner cases."
+  },
+  {
+    "paragraph_index": 11,
+    "text": "Safety metrics"
+  },
+  {
+    "paragraph_index": 12,
+    "text": "Besides crash rate, we will report surrogate measures standard in traffic safety research. For a lead vehicle at longitudinal gap Δx with length L and closing speed Δv, time-to-collision and the deceleration required to avoid a crash are"
+  },
+  {
+    "paragraph_index": 13,
+    "text": "TTC(t) = Δx(t) - LΔv(t),          DRAC(t) = Δv(t)2Δx(t) - L(1)"
+  },
+  {
+    "paragraph_index": 14,
+    "text": "both defined only while the gap is closing and zero otherwise; DRAC is the braking severity a plan forces on the ego vehicle [7]. The minimum of TTC over a rollout marks its worst instant but cannot separate a brief graze from sustained close following. Time-integrated TTC does, accumulating severity over duration against a threshold TTC* [5]:"
+  },
+  {
+    "paragraph_index": 15,
+    "text": "TIT = tTTC* - TTC(t) Δt,          0 < TTC(t) ≤ TTC*(2)"
+  },
+  {
+    "paragraph_index": 16,
+    "text": "The suite we report includes TTC, TIT, and DRAC but is not limited to them. Post-encroachment time [6] covers crossing conflicts that TTC's one-dimensional form misses, and progress and comfort bounds keep a planner from scoring well by crawling. TIT and DRAC are what separate planners that hold margin from those that survive on luck."
+  },
+  {
+    "paragraph_index": 19,
+    "text": "Dissemination Plan"
+  },
+  {
+    "paragraph_index": 37,
+    "text": "E. Conclusion"
+  },
+  {
+    "paragraph_index": 38,
+    "text": "This project gives the community an open, reproducible way to measure how safely VLA driving models behave in the scenarios that matter, using accumulated pre-crash risk instead of a crash tally."
+  }
+]

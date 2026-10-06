@@ -1,0 +1,24 @@
+[
+  {
+    "role": "Original nuPlan camera exposure timestamps",
+    "path": "E:\\nuplan_local\\dataset\\nuplan-v1.1\\splits\\mini\\2021.06.28.16.29.11_veh-38_01415_01821.db",
+    "sha256": "0ab169bdfd5d430cdd6a6a16f14ca590ddf079b56473d611998f80fa7d6d8e5c",
+    "bytes": 275554304
+  },
+  {
+    "role": "Verified original scene anchor",
+    "path": "E:\\nuplan_local\\vla_workspace\\realdata_preflight_v1\\downloads\\extracted\\openscene-v1.1\\meta_datas\\mini\\2021.06.28.16.29.11_veh-38_01415_01821.pkl",
+    "sha256": "58b2df554a20aae655ab16fe4f91af7fa594d1eb83b4876ab139fd3c4bdaa8d6"
+  },
+  {
+    "role": "Original nuPlan camera exposure timestamps",
+    "path": "E:\\nuplan_local\\dataset\\nuplan-v1.1\\splits\\mini\\2021.10.11.02.57.41_veh-50_01522_02088.db",
+    "sha256": "d1b375b6df7d2e8bc5e4461b0adb97abf86bb592291543784ab56f5bfa69761d",
+    "bytes": 55070720
+  },
+  {
+    "role": "Verified original scene anchor",
+    "path": "E:\\nuplan_local\\vla_workspace\\realdata_preflight_v1\\downloads\\extracted\\openscene-v1.1\\meta_datas\\mini\\2021.10.11.02.57.41_veh-50_01522_02088.pkl",
+    "sha256": "f82838aaf8a3a6b997489389d1266ddc96449ef578d5caebfa3774da1683c3ff"
+  }
+]
